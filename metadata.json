@@ -1,0 +1,5 @@
+{
+  "name": "SnapSwipe Organizer",
+  "description": "A highly efficient photo organization tool. Upload a folder, then swipe left to save or right to delete images. Features Gemini AI integration for image analysis.",
+  "requestFramePermissions": []
+}
